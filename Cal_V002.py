@@ -1,5 +1,6 @@
 #Cal_V002 - Basic math
 # Changes from V-001: Changed the math to functions. Added while loop to continue calculations.
+# Testing connection to Git
 
 def add(num1, num2):
     return num1 + num2
